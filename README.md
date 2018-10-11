@@ -30,7 +30,7 @@ Authorization : Basic cGxpdm8xOjIwUzBLUE5PSU0=
 
 
 ############################
-APP Details running
+App running in AWS server
 ############################
 
 App AWS URL: http://18.188.176.183:8080/smsservice
